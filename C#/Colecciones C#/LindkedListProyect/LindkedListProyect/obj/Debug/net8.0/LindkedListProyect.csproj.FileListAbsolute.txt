@@ -1,0 +1,14 @@
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\bin\Debug\net8.0\LindkedListProyect.exe
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\bin\Debug\net8.0\LindkedListProyect.deps.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\bin\Debug\net8.0\LindkedListProyect.runtimeconfig.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\bin\Debug\net8.0\LindkedListProyect.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\bin\Debug\net8.0\LindkedListProyect.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\LindkedListProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\LindkedListProyect.AssemblyInfoInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\LindkedListProyect.AssemblyInfo.cs
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\LindkedListProyect.csproj.CoreCompileInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\LindkedListProyect.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\refint\LindkedListProyect.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\LindkedListProyect.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\LindkedListProyect.genruntimeconfig.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\LindkedListProyect\LindkedListProyect\obj\Debug\net8.0\ref\LindkedListProyect.dll

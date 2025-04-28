@@ -1,0 +1,14 @@
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\bin\Debug\net8.0\ListC#.exe
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\bin\Debug\net8.0\ListC#.deps.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\bin\Debug\net8.0\ListC#.runtimeconfig.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\bin\Debug\net8.0\ListC#.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\bin\Debug\net8.0\ListC#.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ListC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ListC#.AssemblyInfoInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ListC#.AssemblyInfo.cs
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ListC#.csproj.CoreCompileInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ListC#.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\refint\ListC#.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ListC#.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ListC#.genruntimeconfig.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\ListC#\ListC#\obj\Debug\net8.0\ref\ListC#.dll
