@@ -1,0 +1,14 @@
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\bin\Debug\net8.0\QueueCollection.exe
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\bin\Debug\net8.0\QueueCollection.deps.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\bin\Debug\net8.0\QueueCollection.runtimeconfig.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\bin\Debug\net8.0\QueueCollection.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\bin\Debug\net8.0\QueueCollection.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\QueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\QueueCollection.AssemblyInfoInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\QueueCollection.AssemblyInfo.cs
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\QueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\QueueCollection.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\refint\QueueCollection.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\QueueCollection.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\QueueCollection.genruntimeconfig.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\QueueCollection\QueueCollection\obj\Debug\net8.0\ref\QueueCollection.dll
