@@ -1,5 +1,7 @@
 ﻿//El stack es parecido a las Queue's porque son colas LIFO (Last in first out); el ultimo num guardado
 //es el primero en salir
+//El stack se suele utilizar para procesos que requieran retroceder o almacenar posiciones anteriores. Ej; Deshacer acciones,
+//juegos; como laberintos, sudokus, etc. Tambien historiales de paginas de internet, constrol de versiones en bases de datos.
 
 namespace StackCollection
 {
