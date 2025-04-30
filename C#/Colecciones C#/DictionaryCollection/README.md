@@ -1,5 +1,5 @@
 # Diccionarios en C#
-Proyecto de práctica de aplicación en consola en C#, donde se práctica métodos y uso de diccionarios. Ej; Add, Peek, KeyValuePair, etc.
+Proyecto de práctica de aplicación en consola en C#, donde se práctica métodos y uso de diccionarios. Ej; Add, KeyValuePair, etc.
 
 # Stack utilizado
 - C#
