@@ -1,0 +1,14 @@
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\net8.0\DelegadosPredicadosYLambdas.exe
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\net8.0\DelegadosPredicadosYLambdas.deps.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\net8.0\DelegadosPredicadosYLambdas.runtimeconfig.json
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\net8.0\DelegadosPredicadosYLambdas.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\net8.0\DelegadosPredicadosYLambdas.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\DelegadosPredicadosYLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\DelegadosPredicadosYLambdas.AssemblyInfoInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\DelegadosPredicadosYLambdas.AssemblyInfo.cs
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\DelegadosPredicadosYLambdas.csproj.CoreCompileInputs.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\DelegadosPredicadosYLambdas.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\refint\DelegadosPredicadosYLambdas.dll
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\DelegadosPredicadosYLambdas.pdb
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\DelegadosPredicadosYLambdas.genruntimeconfig.cache
+C:\Users\Ivana Maitena\Desktop\Proyectos C#\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\net8.0\ref\DelegadosPredicadosYLambdas.dll
