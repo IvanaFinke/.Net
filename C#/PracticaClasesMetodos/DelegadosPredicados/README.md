@@ -4,7 +4,7 @@ Los delegados predicados son una forma de manipular funciones, mayormente usados
 que depende de la condición aplicada. Tambien los Predicate aceptan expresiones lambda en sus parámetros.
 En este proyecto se practica con arrays de enteros, donde se los clasifica como pares y array de empleados, donde se los clasifica segun
 sueldo minimo y segun edad.
-
+ 
 # Stack utilizado
 - C#
 - .NET Framework
