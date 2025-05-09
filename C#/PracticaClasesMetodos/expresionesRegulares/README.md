@@ -10,6 +10,10 @@ Se suele utilizar mucho las expresiones regulares para identificar en un texto c
 En este prouecto se utiliza distintos ejemplos para encontrar en el texto un caracter, bloques de numeros, borrar de un string una frase 
 y borrar de un array una frase repetida.
 
+Documentacion de Microsoft de utilidad para trabajar con Regular Expressions:
+https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions (Cuantificadores)
+https://learn.microsoft.com/es-es/dotnet/api/system.text.regularexpressions.match?view=net-7.0  (Match Clase)
+
 # Stack utilizado
 - C#
 - .NET Framework
