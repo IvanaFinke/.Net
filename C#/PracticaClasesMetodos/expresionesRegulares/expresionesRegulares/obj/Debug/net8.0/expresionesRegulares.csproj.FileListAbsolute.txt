@@ -1,0 +1,14 @@
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\bin\Debug\net8.0\expresionesRegulares.exe
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\bin\Debug\net8.0\expresionesRegulares.deps.json
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\bin\Debug\net8.0\expresionesRegulares.runtimeconfig.json
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\bin\Debug\net8.0\expresionesRegulares.dll
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\bin\Debug\net8.0\expresionesRegulares.pdb
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\expresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\expresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\expresionesRegulares.AssemblyInfo.cs
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\expresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\expresionesRegulares.dll
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\refint\expresionesRegulares.dll
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\expresionesRegulares.pdb
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\expresionesRegulares.genruntimeconfig.cache
+C:\Users\ivana\source\repos\expresionesRegulares\expresionesRegulares\obj\Debug\net8.0\ref\expresionesRegulares.dll
