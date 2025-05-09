@@ -1,0 +1,14 @@
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\bin\Debug\net8.0\RegexValidaciones.exe
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\bin\Debug\net8.0\RegexValidaciones.deps.json
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\bin\Debug\net8.0\RegexValidaciones.runtimeconfig.json
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\bin\Debug\net8.0\RegexValidaciones.dll
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\bin\Debug\net8.0\RegexValidaciones.pdb
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\RegexValidaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\RegexValidaciones.AssemblyInfoInputs.cache
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\RegexValidaciones.AssemblyInfo.cs
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\RegexValidaciones.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\RegexValidaciones.dll
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\refint\RegexValidaciones.dll
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\RegexValidaciones.pdb
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\RegexValidaciones.genruntimeconfig.cache
+C:\Users\ivana\source\repos\RegexValidaciones\RegexValidaciones\obj\Debug\net8.0\ref\RegexValidaciones.dll
