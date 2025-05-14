@@ -3,7 +3,7 @@ Proyecto de práctica de aplicación en consola en C#, donde se práctica métod
 
 # Stack utilizado
 - C#
-- .NET Framework 
+- .NET Framework  
 
 # Cómo ejecutar
 Abrir la solución (.sln) en Visual Studio y ejecutar el proyecto.
