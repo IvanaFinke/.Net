@@ -1,0 +1,47 @@
+﻿@using Pizeria.Components
+@inject PizzaService pizzaService
+@page "/pizza"
+<h1>Choose your pizza</h1>
+
+<p>We have all this recipes:</p>
+
+@if(pizzas != null)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Pizza Name</th>
+                <th>Pizza Description</th>
+                <th>Is Vegan?</th>
+                <th>Is Vegetarian?</th>
+                <th>Prize</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var pizza in pizzas)
+            {
+                <tr>
+                    <td>@pizza.Name</td>
+                    <td>@pizza.Description</td>
+                    <td>@pizza.vegan</td>
+                    <td>@pizza.vegetarian</td>
+                    <td>@pizza.Prize.ToString("0.00")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Pizzas loading...</p>
+}
+
+@code {
+    private PizzaDatos[] pizzas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        pizzas = await pizzaService.GetPizzasAsync();
+    }
+
+}
