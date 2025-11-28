@@ -1,3 +1,6 @@
+In this project we simulate a pizzeria application, which we can make requests to view, add and delete data about pizzas we have.
+SOLID principles are used respecting the management of dependency injection in services to minimize code and performance asynchronously.
+
 In this project we use SQlite and for that we need to download the Entity Framework's package in terminal on the project root:
 > cd Pizeria
 > dotnet add package Microsoft.EntityFrameworkCore.Sqlite
