@@ -1,0 +1,12 @@
+In this project we use SQlite and for that we need to download the Entity Framework's package in terminal on the project root:
+> cd Pizeria
+> dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+> dotnet add package Microsoft.EntityFrameworkCore.Design
+> dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+# instalar la herramienta EF Core (global) para ejecutar migraciones
+dotnet tool install --global dotnet-ef
+
+# Comandos para las migraciones de datos a base de datos dentro de la carpeta del proyecto que contiene el DbContext:
+dotnet ef migrations add InitialCreate
+dotnet ef database update
